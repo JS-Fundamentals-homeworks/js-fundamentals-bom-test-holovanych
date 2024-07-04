@@ -5,3 +5,12 @@
 // Запустіть програму за допомогою Live Server
 // перевірте виконання за допомогою команди node tests/task1.test.js
 
+/*const btn = document.querySelector('#btn');
+btn.addEventListener('click', changeC);*/
+
+const changeCSS = ()=> {
+    const text = document.querySelector("#text");
+    text.style.color = 'orange';
+    text.style.fontSize = '20px';
+    text.style.fontFamily = 'Comic Sans MS';
+}

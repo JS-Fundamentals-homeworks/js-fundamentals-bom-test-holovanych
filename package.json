@@ -24,6 +24,7 @@
     "jsdom-global": "^3.0.2"
   },
   "dependencies": {
+    "live-server": "^1.2.2",
     "puppeteer": "^21.4.0",
     "text-encoding": "^0.7.0"
   }
